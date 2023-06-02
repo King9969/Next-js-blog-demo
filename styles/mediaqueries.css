@@ -6,5 +6,12 @@
         margin-right: 0;
         margin: 10px;
     }
+    .boxcontainer {
+       padding-right: 1rem;
+       padding-left: 1rem;
 
+    }
+    .right-content{
+        margin: 1rem;
+    }
   }
